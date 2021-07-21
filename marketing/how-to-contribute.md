@@ -4,4 +4,4 @@ marketing taskforce
 
 List goes here
 
-For discussion or ideation. ping ____ in discord
+For discussion or ideation. ping ___ in discord channel #__
