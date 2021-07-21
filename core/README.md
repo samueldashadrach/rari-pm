@@ -1,4 +1,4 @@
-This page tracks all project management directly linked to Rari, and not to a specific taskforce.
+This page tracks all project management directly linked to Rari, and not to a specific taskforce. If you wish to contribute, please check [how to contribute]().
 
 ## Meetings
 
@@ -7,10 +7,6 @@ General meeting - every Monday 8 pm PT in contributors' discord
 Engg. meeting - every Tuesday 8 pm PT in contributors' discord
 
 Notes
-
-## Ideation board
-
-Anyone can PR and add suggestions here
 
 ## Financials
 
