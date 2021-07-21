@@ -1,4 +1,4 @@
-This page tracks all project management directly linked to Rari, and not to a specific taskforce. If you wish to contribute, please check [how to contribute]().
+This page tracks all project management directly linked to Rari, and not to a specific taskforce.
 
 ## Meetings
 
