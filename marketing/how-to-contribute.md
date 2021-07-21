@@ -2,8 +2,6 @@ marketing taskforce
 
 ## Grants and fulltime roles available
 
-Lists
+List goes here
 
-## Ideation board
-
-Anyone can PR here
+For discussion or ideation. ping ____ in discord
