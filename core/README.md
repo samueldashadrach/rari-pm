@@ -3,6 +3,7 @@ This page tracks all project management directly linked to Rari, and not to a sp
 ## Meetings
 
 General meeting - every Monday 8 pm PT in contributors' discord
+
 Engg. meeting - every Tuesday 8 pm PT in contributors' discord
 
 Notes
