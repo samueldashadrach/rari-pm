@@ -9,3 +9,20 @@ docs, forum posts
 ## Taskforces
 
 List of taskforces and coordinators goes here. Also link to where each of them organises
+
+## Meetings
+
+This tracks general meetings that are not specific to a taskforce
+
+General meeting - Every Mondy 8 pm PT at Rari contributors' discord
+Engg. meeting - Every Tuesday 8 pm PT at Rari contributors' discord
+
+Notes
+
+## Financials
+
+Treasury:
+
+Latest allocated amounts: 
+
+Link to each taskforces' reports
