@@ -2,4 +2,4 @@ You may contribute in the form of providing ideas and feedback, doing part-time 
 
 ### List of taskforces' how-to-contribute pages
 
-Marketing - [how to contribute](marketing/how-to-contribute.md)
+ - Marketing - [how to contribute](marketing/how-to-contribute.md)
